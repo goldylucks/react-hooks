@@ -1,0 +1,9 @@
+{
+  "name": "use-on-enter",
+  "version": "1.0.0",
+  "description": "React onEnter hook",
+  "main": "index.js",
+  "repository": "https://github.com/goldylucks/react-hooks",
+  "author": "goldylucks",
+  "license": "MIT"
+}

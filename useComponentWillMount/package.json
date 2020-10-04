@@ -1,0 +1,12 @@
+{
+  "name": "use-component-will-mount",
+  "version": "1.0.2",
+  "description": "React componentWillMount hook",
+  "main": "index.js",
+  "repository": "https://github.com/goldylucks/react-hooks",
+  "author": "goldylucks",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.13.1"
+  }
+}
